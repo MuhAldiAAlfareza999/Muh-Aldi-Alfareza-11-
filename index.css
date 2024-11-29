@@ -1,0 +1,33 @@
+*{
+    font-family: 'tahoma';
+  }
+  /* selector universal */
+  
+  #artikel-1{
+    color:green;
+  }
+  /* selector id */
+  
+  .tanggal{
+    color:red;
+  }
+  
+  h3{
+    font-size:12px;
+  }
+  
+  .credit{
+    font-weight:bold;
+  }
+  
+  .penulis{
+    color:chocolate
+  }
+  #artikel-2 {
+    color: red;
+  }
+
+  h1{
+    color:aqua
+    
+  }
